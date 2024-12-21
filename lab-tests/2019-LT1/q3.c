@@ -1,8 +1,3 @@
-/*
-   Name : Emmanuel Oh Eu-Gene
-   Email: emmanueloh.2019@sis.smu.edu.sg
- */
-
 #include <stdio.h>
 
 void print_season(int day, int month) {

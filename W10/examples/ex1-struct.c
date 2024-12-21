@@ -30,7 +30,7 @@ int main(void) {
     printf("Coordinates are: (%d, %d)\n", p.x, p.y);
 
     // Alternatively, we can use the same syntax as with array initialisation to save values into a struct
-    contact emman = {"Emmanuel", "Toa Payoh", "91457278"};
+    contact john = {"John Cena", "WWE Headquarters", "7378218"};
 
-    printf("Name: %s\nAddress: %s\nNumber: %s\n", emman.name, emman.address, emman.number);
+    printf("Name: %s\nAddress: %s\nNumber: %s\n", john.name, john.address, john.number);
 }

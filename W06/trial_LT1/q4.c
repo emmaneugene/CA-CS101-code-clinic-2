@@ -1,10 +1,3 @@
-/**
- *
- * Name: Emmanuel Oh Eu-Gene
- * Email: emmanueloh.2019@sis.smu.edu.sg
- *
- */
-
 #include <math.h>
 #include <stdio.h>
 

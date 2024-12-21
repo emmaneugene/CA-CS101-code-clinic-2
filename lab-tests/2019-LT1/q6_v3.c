@@ -1,13 +1,9 @@
-/*
-   Name : Emmanuel Oh Eu-Gene
-   Email: emmanueloh.2019@sis.smu.edu.sg
- */
-
 #include <stdio.h>
+
 /*
-2 variables, temp and current_greatest
-Increment one by one through the array
-compare if temp + worth[i] > current_greatest
+  2 variables, temp and current_greatest
+  Increment one by one through the array
+  compare if temp + worth[i] > current_greatest
  */
 
 int max(int n1, int n2) {

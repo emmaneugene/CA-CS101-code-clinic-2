@@ -1,9 +1,3 @@
-/**
- *
- * Name: Emmanuel Oh Eu-Gene
- * Email: emmanueloh.2019@sis.smu.edu.sg
- *
- */
 #include <stdio.h>
 
 int calculate_ticket_price(int age) {

@@ -1,17 +1,13 @@
-/*
-   Name : Emmanuel Oh Eu-Gene
-   Email: emmanueloh.2019@sis.smu.edu.sg
- */
-
 #include <stdio.h>
+
 /*
-2 pointers iterating through the array
+  2 pointers iterating through the array
 
-ptr_1: [0], [2], [4], ...
-ptr_2: [1], [3], [5], ...
+  ptr_1: [0], [2], [4], ...
+  ptr_2: [1], [3], [5], ...
 
-2 sums, max_ptr_1 and max_ptr_2
-each time a pointer increments, we will reassign its max_ptr by comparison
+  2 sums, max_ptr_1 and max_ptr_2
+  each time a pointer increments, we will reassign its max_ptr by comparison
  */
 
 int steal(int worth[], int num) {

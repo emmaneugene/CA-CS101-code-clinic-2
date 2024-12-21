@@ -1,17 +1,12 @@
-/*
-   Name : Emmanuel Oh Eu-Gene
-   Email: emmanueloh.2019@sis.smu.edu.sg
- */
-
 #include <stdio.h>
 /*
-An exercise in thinking with recursion
+  An exercise in thinking with recursion
 
-what is steal(n)?
+  what is steal(n)?
 
-worth[n - 1] + steal(n -2) > steal(n-1) ? :
+  worth[n - 1] + steal(n -2) > steal(n-1) ? :
 
-base cases: n = 1 and n = 2
+  base cases: n = 1 and n = 2
  */
 
 int steal(int worth[], int num) {
