@@ -1,15 +1,8 @@
-/**
- * Name : Emmanuel Oh Eu-Gene
- * Email: emmanueloh.2019@sis.smu.edu.sg
- */
-
-/*
-    Create a linked list of possible purchase combinations, instead of an array
-*/
-
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
+
+//  Create a linked list instead of an array to store possible purchase combinations
 
 typedef struct {
     double price;
