@@ -1,6 +1,19 @@
 # A brief introduction to programming in C
 
-### Overview
+## Examples
+
+This repo has many C programs which you can compile and run as examples. There is
+a `Makefile` that simplifies this process.
+
+- To compile: `make SRC=<filepath>`
+
+- To run (compilation is handled automatically): `make SRC=<filepath>`
+
+- To delete: `make clean SRC=<filepath>`
+
+Where `<filepath>` is an absolute or relative path to the source file.
+
+## Overview
 
 1. "Hello world"
 2. Variables, datatypes, conventions
@@ -188,6 +201,7 @@ void common_factors(int x, int y) {
 <u>Command line</u>:
 
 - [The Missing Semester](https://missing.csail.mit.edu/)
+
 - [Linux commands](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
 
 <u>General learning</u>:
