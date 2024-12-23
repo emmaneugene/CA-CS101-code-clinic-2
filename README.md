@@ -7,11 +7,11 @@ a `Makefile` that simplifies this process.
 
 - To compile: `make SRC=<filepath>`
 
-- To run (compilation is handled automatically): `make SRC=<filepath>`
+- To run (compilation is handled automatically): `make run SRC=<filepath>`
 
 - To delete: `make clean SRC=<filepath>`
 
-Where `<filepath>` is an absolute or relative path to the source file.
+Where `<filepath>` is an absolute or relative path to the source file (.c).
 
 ## Overview
 
